@@ -1,0 +1,4 @@
+lwc/com/springboot/repository/WikimediaDataRepository.class
+lwc/com/springboot/KafkaDatabaseConsumer.class
+lwc/com/springboot/entity/WikimediaData.class
+lwc/com/springboot/SpringBootConsumerApplication.class

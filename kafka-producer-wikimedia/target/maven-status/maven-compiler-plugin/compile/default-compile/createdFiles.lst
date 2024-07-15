@@ -1,0 +1,4 @@
+lwc/com/springboot/KafkaTopicConfig.class
+lwc/com/springboot/SpringBootProducerApplication.class
+lwc/com/springboot/WikimediaChangesHandler.class
+lwc/com/springboot/WikimediaChangesProducer.class
